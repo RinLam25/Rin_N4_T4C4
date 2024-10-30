@@ -11,7 +11,6 @@ I'm a third-year student at HUFLIT University. My major is Information Technolog
 *   ✉️  You can contact me at [lamtherin25072004@gmail.com](mailto:lamtherin25072004@gmail.com)
 *   🚀  I'm currently working on [Facebook](http://www.facebook.com/profile.php?id=100077964024381)
 *   🧠  I'm learning Ielts
-*   My parent are teacher but i'm a ITer 
 *   🤝  I'm open to collaborating on interesting project<a href="https://www.github.com/RinLam25" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/RinLam25?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>### Skills 
